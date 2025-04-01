@@ -27,7 +27,7 @@
             border-radius: 15px;
             box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
         }
-        img {
+        img {IMG_0189.JPG
             width: 180px;
             height: 180px;
             border-radius: 50%;
